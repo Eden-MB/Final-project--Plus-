@@ -3,8 +3,8 @@ body {
 }
 
 .body {
-  max-width: 600px;
-  height: 500px;
+  max-width: 650px;
+  height: 520px;
   margin: 45px auto;
   border-radius: 8px;
   padding: 30px;
@@ -75,7 +75,6 @@ body {
   position: relative;
   left: 15%;
   padding: 15px;
-  size: 10%;
 }
 .cityname {
   color: white;
@@ -123,8 +122,8 @@ body {
 .footer {
   color: white;
   position: relative;
-  left: 20px;
-  top: 20px;
+  left: 50px;
+  top: 30px;
 }
 a {
   color: #f7cf21;
@@ -133,7 +132,7 @@ a {
   border-left: 1px solid rgb(238, 255, 7);
   position: relative;
   top: 50px;
-  left: 25px;
+  left: px;
   height: 270px;
   display: block;
   margin-left: 10px;
